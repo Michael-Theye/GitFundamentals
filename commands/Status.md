@@ -6,6 +6,7 @@ Using git status will show youwhat changes are being tracked, aren't being track
 
 It's a command that is safe to use at any time. If you want to see what is going on it's good to use git status inbetween commands until you get to know the flow better.
 
+```
 git add .
 git status
 
@@ -14,7 +15,7 @@ git status
 
 git push
 git status
-
+```
 
 ## Resources
 

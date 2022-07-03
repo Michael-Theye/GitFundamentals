@@ -1,6 +1,6 @@
 # git commit
 
-The commands `git commit` will take all tracked changes (items addded with[git add](./Add.md)) and packages them up in what is called a commit
+The commands `git commit` will take all tracked changes (items added with[git add](./Add.md)) and packages them up in what is called a commit
 
 Commits come with commit messages that are required for each commit. You add a message to a commit command by using the `-m` flag followed by a message in quotes.
 
